@@ -1,0 +1,11 @@
+.my_cart {
+    background: linear-gradient(rgba(199, 211, 216, 0.486), rgb(92, 92, 133));
+    
+}
+
+.price {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    font-style: italic;
+}
