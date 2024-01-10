@@ -1,5 +1,5 @@
 {
-  "homepage": "https://juanlezama1.github.io/E-Commerce-ReactJS",
+  "homepage": "https://juanlezama1.github.io/E_Commerce-ReactJS",
   "name": "tp-e-commerce",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "antd": "^5.9.4",
